@@ -1,2 +1,13 @@
-# ModSim
-Entregas para el curso de Modelacion y Simulacion, cursado segundo semestre 2024
+# Modelación y Simulación
+## Autor: Jose Merida | Segundo Semestre 2024
+En este repositorio se encuentran las entregas para el curso de Modelación y Simulación, cada una en su respectivo Branch del repositorio. Las entregas de este curso fueron trabajadas de manera grupal, junto con Joaquín Puente y Nelson García.
+
+En este curso principalmente se utiliza Python y las entregas hasta el momento consisten en:
+
+  - 1 Hoja de Trabajo
+  - 3 Laboratorios
+
+Se han abarcado los temas:
+
+  - Heurísticas de Optimización
+  - Soluciones Numéricas a EDOs
