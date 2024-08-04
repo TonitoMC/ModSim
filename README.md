@@ -7,6 +7,8 @@ En este curso principalmente se utiliza Python y las entregas hasta el momento c
   - 1 Hoja de Trabajo
   - 3 Laboratorios
 
+La mayoría de estas entregas incluyen una parte escrita / teórica, sin embargo en el repositorio principalmente se estará cubriendo el código y las salidas del programa desarrollado para la entrega.
+
 Se han abarcado los temas:
 
   - Heurísticas de Optimización
