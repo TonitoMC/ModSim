@@ -1,5 +1,5 @@
 # Laboratorio 3. Método de Runge-Kutta para EDOs
-## 30 de Juliio 2024
+## 30 de Julio 2024
 ### Instrucciones
 Mediante el uso del Método de Runge-Kutta resuelva los siguientes ejercicios
 
