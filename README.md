@@ -30,5 +30,11 @@ Se han abarcado los temas:
   - Heurísticas de Optimización
   - Soluciones Numéricas a EDOs
 
-### Salida:
+### Resultdo:
+```
+Iteracion: 499, Candidato: 11011001111001111001001100000011, Fitness: 1.8505952429626031
+```
 
+Grafica de Fitness y # de Iteracion
+
+![image](https://github.com/user-attachments/assets/21e7e9be-8021-4d55-81bd-492d081ca23f)
